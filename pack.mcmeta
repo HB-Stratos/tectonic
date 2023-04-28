@@ -1,8 +1,6 @@
 {
-  "pack": {
-    "pack_format": 10,
-    "description": "v1.1.9 for 1.19.x",
-    "forge:resource_pack_format": 9,
-    "forge:data_pack_format": 10
-  }
+    "pack": {
+        "description": "",
+        "pack_format": 10
+    }
 }
