@@ -1,5 +1,6 @@
 {
-  "category": "plains", "carvers": {
+  "category": "plains",
+  "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",
@@ -32,10 +33,11 @@
     [],
     [],
     [
+      "tectonic:common/steep/stone",
       "tectonic:common/stone_in_deepslate",
       "tectonic:common/deepslate_in_stone",
-        "tectonic:common/disk/magma",
-        "tectonic:common/disk/smooth_basalt",
+      "tectonic:common/disk/magma",
+      "tectonic:common/disk/smooth_basalt",
       "minecraft:ore_dirt",
       "minecraft:ore_gravel",
       "minecraft:ore_granite_upper",
@@ -73,7 +75,7 @@
       "minecraft:glow_lichen",
       "tectonic:common/seagrass_land",
       "minecraft:patch_sunflower",
-      "tectonic:plains/trees/trees_grasslands",
+      "minecraft:trees_plains",
       "tectonic:common/grass/patch_grass_regular",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
