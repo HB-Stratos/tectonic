@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "description": "",
-        "pack_format": 10
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "v1.1.7a for 1.18.2"
+  }
 }
