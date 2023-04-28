@@ -1,5 +1,6 @@
 {
-  "category": "ocean", "carvers": {
+  "category": "ocean",
+  "carvers": {
     "air": [
       "minecraft:cave",
       "minecraft:cave_extra_underground",

@@ -34,6 +34,7 @@
     [],
     [],
     [
+      "tectonic:common/steep/packed_mud",
       "tectonic:common/stone_in_deepslate",
       "tectonic:common/deepslate_in_stone",
       "tectonic:common/disk/magma",
@@ -72,7 +73,7 @@
     [
       "minecraft:glow_lichen",
       "tectonic:common/seagrass_land",
-      "tectonic:savanna/trees/trees_savanna",
+      "minecraft:trees_savanna",
       "tectonic:common/grass/patch_grass_sparse",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

@@ -38,6 +38,7 @@
     [],
     [],
     [
+      "tectonic:common/steep/stone",
       "tectonic:common/stone_in_deepslate",
       "tectonic:common/deepslate_in_stone",
       "tectonic:common/disk/magma",
@@ -80,7 +81,7 @@
       "tectonic:common/seagrass_land",
       "tectonic:forest/fallen_logs/birch",
       "tectonic:forest/stumps/birch",
-      "tectonic:forest/trees/trees_birch",
+      "minecraft:trees_birch",
       "tectonic:common/flowers_regular",
       "tectonic:common/grass/patch_grass_dense",
       "minecraft:brown_mushroom_normal",
