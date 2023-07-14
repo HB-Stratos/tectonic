@@ -1,0 +1,20 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Terratonic v3",
+        "color": "#b0b0b0"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#888888"
+      },
+      {
+        "text": "Apollo",
+        "color": "#ca78e4"
+      }
+    ]
+  }
+}
